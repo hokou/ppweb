@@ -31,6 +31,7 @@ section.gal>.list>.quest {
 
 section.gal>.list>.answer>ul {
     list-style-type:none;
+    line-height: 1.5em;
 }
 
 /* footer 區塊 */
